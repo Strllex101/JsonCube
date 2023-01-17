@@ -1,0 +1,12 @@
+[
+  {
+		"Scale X": 2,
+   	"Scale Y": 2,
+   	"Scale Z": 2
+	},
+  {
+
+    "Max_left": 1000 ,
+    "Max_Right": -1000
+    }
+]
